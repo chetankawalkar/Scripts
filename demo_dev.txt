@@ -3,4 +3,6 @@ this is a new line
 
 
 
-this commite  is fine 
+this commite  is fine
+
+this commite not fine (wrong ,bug , issue ) 
