@@ -6,3 +6,5 @@ this is a new line
 this commite  is fine
 
 this commit is also fine 
+
+this is a bug	
