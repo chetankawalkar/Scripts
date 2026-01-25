@@ -5,4 +5,5 @@ this is a new line
 
 this commite  is fine
 
-this commite not fine (wrong ,bug , issue ) 
+this commite not fine (wrong ,bug , issue )
+this commit is also fine 
